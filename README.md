@@ -57,9 +57,20 @@
 
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=BermudianOptionPricing&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/BermudianOptionPricing)&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=game_of_24&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/game_of_24)
+| 🚀 Project | 📝 Description | 🛠 Stack |
+|:---|:---|:---:|
+| [**BermudianOptionPricing**](https://github.com/idarkhanzh/BermudianOptionPricing) | Bermudian option pricing via binomial trees & Monte Carlo simulation | Python |
+| [**game\_of\_24**](https://github.com/idarkhanzh/game_of_24) | Interactive Game of 24 web app with solver | JavaScript · HTML · CSS |
+| [**prediction-markets**](https://github.com/idarkhanzh/prediction-markets) | Prediction market mechanics & probability calibration | Python |
+| [**market-making-game**](https://github.com/idarkhanzh/market-making-game) | Interactive market-making simulation game | JavaScript |
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=prediction-markets&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/prediction-markets)&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=market-making-game&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/market-making-game)
+</div>
+
+<div align="center">
+
+[![BermudianOptionPricing](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=BermudianOptionPricing&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/BermudianOptionPricing)&nbsp;&nbsp;[![game_of_24](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=game_of_24&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/game_of_24)
+
+[![prediction-markets](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=prediction-markets&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/prediction-markets)&nbsp;&nbsp;[![market-making-game](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=market-making-game&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/market-making-game)
 
 </div>
 
