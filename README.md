@@ -53,18 +53,13 @@
 
 ---
 
-## 〉 Recent Projects
-
-<!-- 
-  Pin up to 6 repos on your GitHub profile page.
-  Replace REPO_NAME below with your actual repo names — the cards auto-update with live stars/forks/description.
--->
+## 〉 Featured Projects
 
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=game-of-24&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/game-of-24)&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=REPO_2&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/REPO_2)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=BermudianOptionPricing&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/BermudianOptionPricing)&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=game_of_24&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/game_of_24)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=REPO_3&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/REPO_3)&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=REPO_4&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/REPO_4)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=prediction-markets&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/prediction-markets)&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=market-making-game&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/market-making-game)
 
 </div>
 
