@@ -56,22 +56,48 @@
 ## 〉 Featured Projects
 
 <div align="center">
-
-| 🚀 Project | 📝 Description | 🛠 Stack |
-|:---|:---|:---:|
-| [**BermudianOptionPricing**](https://github.com/idarkhanzh/BermudianOptionPricing) | Bermudian option pricing via binomial trees & Monte Carlo simulation | Python |
-| [**game\_of\_24**](https://github.com/idarkhanzh/game_of_24) | Interactive Game of 24 web app with solver | JavaScript · HTML · CSS |
-| [**prediction-markets**](https://github.com/idarkhanzh/prediction-markets) | Prediction market mechanics & probability calibration | Python |
-| [**market-making-game**](https://github.com/idarkhanzh/market-making-game) | Interactive market-making simulation game | JavaScript |
-
-</div>
-
-<div align="center">
-
-[![BermudianOptionPricing](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=BermudianOptionPricing&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/BermudianOptionPricing)&nbsp;&nbsp;[![game_of_24](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=game_of_24&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/game_of_24)
-
-[![prediction-markets](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=prediction-markets&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/prediction-markets)&nbsp;&nbsp;[![market-making-game](https://github-readme-stats.vercel.app/api/pin/?username=idarkhanzh&repo=market-making-game&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/idarkhanzh/market-making-game)
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/idarkhanzh/BermudianOptionPricing">📐 BermudianOptionPricing</a></h3>
+<p>Pricing Bermudian options using binomial trees and Monte Carlo simulation. Explores early-exercise boundaries and convergence analysis.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Quant Finance-7c3aed?style=flat-square"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/idarkhanzh/game_of_24">🎮 Game of 24</a></h3>
+<p>Interactive web app to solve the classic Game of 24. Features a built-in solver engine and clean minimalist UI.</p>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/idarkhanzh/prediction-markets">📊 Prediction Markets</a></h3>
+<p>Exploration of prediction market mechanics, probability calibration, and market scoring rules. Includes simulation of belief aggregation.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-7c3aed?style=flat-square"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/idarkhanzh/market-making-game">⚡ Market Making Game</a></h3>
+<p>Interactive simulation of market-making dynamics — quote, spread, manage inventory risk, and learn microstructure intuitively.</p>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Finance-7c3aed?style=flat-square"/>
+</p>
+</td>
+</tr>
+</table>
 </div>
 
 ---
