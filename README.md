@@ -60,7 +60,7 @@
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/idarkhanzh/BermudianOptionPricing">📐 BermudianOptionPricing</a></h3>
-<p>Pricing Bermudian options using binomial trees and Monte Carlo simulation. Explores early-exercise boundaries and convergence analysis.</p>
+<p>Pricing Bermudian options using Longstaff-Schwartz and Broadie-Andersen algorithms, LSM, and Monte Carlo Simulation.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
@@ -80,7 +80,7 @@
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/idarkhanzh/prediction-markets">📊 Prediction Markets</a></h3>
-<p>Exploration of prediction market mechanics, probability calibration, and market scoring rules. Includes simulation of belief aggregation.</p>
+<p>Prototype of prediction markets designed for local college community.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
