@@ -22,7 +22,7 @@
 <tr><td>🎓 <strong>University</strong></td><td>University of Hong Kong (HKU)</td></tr>
 <tr><td>📚 <strong>Majors</strong></td><td>Statistics &nbsp;·&nbsp; Economics &nbsp;·&nbsp; Finance</td></tr>
 <tr><td>➕ <strong>Minor</strong></td><td>Mathematics</td></tr>
-<tr><td>💼 <strong>Role</strong></td><td>Quant Research Intern @ UpSwing</td></tr>
+<tr><td>💼 <strong>Role</strong></td><td>Quant Research</td></tr>
 <tr><td>📈 <strong>Club</strong></td><td>Staff — HKU Trading Group</td></tr>
 <tr><td>🔬 <strong>Interests</strong></td><td>Factor Models &nbsp;·&nbsp; Statistical Arbitrage &nbsp;·&nbsp; ML in Finance &nbsp;·&nbsp; Algorithmic Trading</td></tr>
 <tr><td>🏅 <strong>Achievements</strong></td><td>🥈 Silver Medal — International Economics Olympiad<br>💯 Perfect Scores — Mathematics, Physics, CS (Cambridge IGCSE)<br>📈 Finalist at Web3 Trading Hackathon by Flow Traders</td></tr>
