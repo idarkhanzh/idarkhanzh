@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khan&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Quant%20%7C%20Statistics%20%7C%20Economics%20%7C%20Finance%20%7C%20HKU&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Quant+Research+Intern;HKU+Trading+Group+%7C+Stats+%2B+Econ+%2B+Finance;Building+at+the+intersection+of+math+%26+markets)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Quant+Trading+Intern;HKU+Trading+Group+%7C+Stats+%2B+Econ+%2B+Finance;Building+at+the+intersection+of+math+%26+markets)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhubatkan/)
